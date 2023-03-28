@@ -22,19 +22,30 @@ Garden Grow includes the following features:
 
 ## Learning Goals
 
+- Collaborate and nurture success within a large team of Front end and Back end disciplines.
+- Learn GraphQL as part of a "stretch tech"
+- Refine the methods and curriculum learned throughout both Turing programs, and display our work as a "Capstone"
+
 ## Known Issues and Limitations
+
+- As of right now, our DB of vegetables is hand collected data from a handfull of sites. Therefore, the selection of vegetables is limited and information may be inaccurate.
 
 ## Roadmap & Future Development
 ## Garden Grow Team
 - Front End
- - 
+  - Ciera DePauw
+  - Josephine Heidepriem
+  - Karim Al-Rashdan
+  - Rae Gebhart
 - Back End
- - 
+  - Alex Pitzel
+  - J Seymour
+  - Lacey Weaver
 ## Acknowledgements
 We would like to thank the following individuals for their contributions to Garden Grow:
 
-Project Mentor - Our project mentor.
-Project Manager - Our project manager.
+Khoa Nguyen - Our project mentor.
+Leta - Our project manager.
 
 ## Contact
 If you have any questions or feedback, please contact us at ____________. We'd love to hear from you!
